@@ -1,0 +1,19 @@
+# env
+.env
+.env.local
+.env*.local
+
+# Next.js
+ads-dashboard/.next/
+ads-dashboard/out/
+ads-dashboard/node_modules/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# logs
+*.log
+npm-debug.log*
