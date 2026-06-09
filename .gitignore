@@ -4,12 +4,12 @@
 .env*.local
 
 # Next.js
-ads-dashboard/.next/
-ads-dashboard/out/
-ads-dashboard/node_modules/
+.next/
+out/
 
 # Node
 node_modules/
+ads-dashboard/node_modules/
 
 # OS
 .DS_Store
